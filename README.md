@@ -4,4 +4,4 @@ Sony PlayStation 2 VU0 C++ math library
 PS2SDK is required to use this library
 
 ## HOW TO USE
-Include VU0Math.h on your PlayStation 2 project
+Include VU0Math.h in your code
